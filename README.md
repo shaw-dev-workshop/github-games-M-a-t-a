@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub. This should be heplful. We will get to Tetris soon.
 
 You can play the game at: https://shaw-dev-workshop.github.io/github-games-M-a-t-a
 
